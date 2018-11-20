@@ -49,6 +49,14 @@
 						{/foreach}
 					</select>
 				</div>
+				<div class="text-left col-lg-4">
+					<button class="btn btn-success mr-1 c-btn-block-sm-down mb-1 mb-md-0" type="button">
+						<span class="fas fa-check mr-1"></span>{\App\Language::translate('LBL_SELECT_ALL', $QUALIFIED_MODULE)}
+					</button>
+					<button class="btn btn-danger c-btn-block-sm-down" type="button">
+						<span class="fas fa-times mr-1"></span>{\App\Language::translate('LBL_DESELECT_ALL', $QUALIFIED_MODULE)}
+					</button>
+				</div>
 			</div>
 			<div class="form-group row">
 				<div class="col-lg-2 description-field align-self-center">
