@@ -8983,7 +8983,7 @@ insert  into `vtiger_profile2utility`(`profileid`,`tabid`,`activityid`,`permissi
 insert  into `vtiger_profile2utility`(`profileid`,`tabid`,`activityid`,`permission`) values (1,14,58,0);
 insert  into `vtiger_profile2utility`(`profileid`,`tabid`,`activityid`,`permission`) values (1,14,59,0);
 insert  into `vtiger_profile2utility`(`profileid`,`tabid`,`activityid`,`permission`) values (1,14,60,0);
-insert  into `vtiger_profile2utility`(`profileid`,`tabid`,`activityid`,`permission`) values (1,14,62,0);
+insert  into `vtiger_profile2utility`(`profileid`,`tabid`,`activityid`,`permission`) values (1,14,62,1);
 insert  into `vtiger_profile2utility`(`profileid`,`tabid`,`activityid`,`permission`) values (1,15,13,0);
 insert  into `vtiger_profile2utility`(`profileid`,`tabid`,`activityid`,`permission`) values (1,15,14,0);
 insert  into `vtiger_profile2utility`(`profileid`,`tabid`,`activityid`,`permission`) values (1,15,15,0);
@@ -10358,7 +10358,7 @@ insert  into `vtiger_profile2utility`(`profileid`,`tabid`,`activityid`,`permissi
 insert  into `vtiger_profile2utility`(`profileid`,`tabid`,`activityid`,`permission`) values (1,97,58,0);
 insert  into `vtiger_profile2utility`(`profileid`,`tabid`,`activityid`,`permission`) values (1,97,59,0);
 insert  into `vtiger_profile2utility`(`profileid`,`tabid`,`activityid`,`permission`) values (1,97,60,0);
-insert  into `vtiger_profile2utility`(`profileid`,`tabid`,`activityid`,`permission`) values (1,97,62,0);
+insert  into `vtiger_profile2utility`(`profileid`,`tabid`,`activityid`,`permission`) values (1,97,62,1);
 insert  into `vtiger_profile2utility`(`profileid`,`tabid`,`activityid`,`permission`) values (1,98,5,0);
 insert  into `vtiger_profile2utility`(`profileid`,`tabid`,`activityid`,`permission`) values (1,98,6,0);
 insert  into `vtiger_profile2utility`(`profileid`,`tabid`,`activityid`,`permission`) values (1,98,8,0);
